@@ -9,3 +9,11 @@ This is a simple Streamlit app that:
 
 ## How to run
 streamlit run sales_app.py
+In your terminal (inside your project folder), run:
+
+git init
+git add .
+git commit -m "Initial commit - Streamlit app"
+git branch -M main
+git remote add origin https://github.com/NarayanaGIT18/streamlit_basics_assignment.git
+git push -u origin main
